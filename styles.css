@@ -1,0 +1,40 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+    text-align: center;
+    background-color: aqua;   
+}
+.header{
+    background-color: steelblue;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    padding: 2px;
+}
+.entertodo{
+    width: 25%;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: large;
+}
+.addtodo{
+    background-color: blueviolet;
+    color: white;
+    font-size: large;
+    padding: auto;
+    width: 10%;
+    border-radius: 5px;
+    margin: 8px 8px 20px 8px;
+}
+.removetodo{
+    background-color: brown;
+    color: white;
+    font-size: large;
+    padding: auto;
+    width: 10%;
+    border-radius: 5px;
+    border-color: red;
+    margin: 0px 0px 0px 10px;
+}
+.todoname{
+    display: inline;
+}
